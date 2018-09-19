@@ -280,7 +280,3 @@ function u0=pdeic(x) %初值描述函数
     u0=(x-1)^2;
 return
 ~~~
-
-求解结果：
-
-![pdedemo](/Users/zhangxianghui/Desktop/matlab_tutorial/pdedemo.jpg)
